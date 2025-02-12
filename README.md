@@ -3,7 +3,12 @@
 ## After cloning run the below command to run the project
 
 ```js
-npm install && npm run dev
+npm install
+```
+**And once initialized we can run :
+
+```js
+npm run dev
 ```
 
 **Now All Set you can open below url to see your page**
@@ -11,3 +16,5 @@ npm install && npm run dev
 ```js 
 http://localhost:8000
 ```
+
+
