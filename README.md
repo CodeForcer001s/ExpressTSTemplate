@@ -17,4 +17,6 @@ npm run dev
 http://localhost:8000
 ```
 
+This template is forked from another github User to keep here but I tweaked through some minor changes in it
+
 
